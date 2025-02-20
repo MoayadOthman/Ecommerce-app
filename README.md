@@ -1,8 +1,6 @@
-# last
+# Ecommerce
 
-A new Flutter project.
-
-## Getting Started
+An eCommerce app is a platform that allows users to browse and purchase products online. It includes features such as a product catalog, shopping cart, checkout process, user accounts, payment integration, order tracking, and notifications. The app offers a convenient way for users to shop and for businesses to manage their products and sales.## Getting Started
 
 This project is a starting point for a Flutter application.
 
