@@ -1,5 +1,5 @@
-name: last
-description: "A new Flutter project."
+name: eCommerce
+description: "An eCommerce app is a platform that allows users to browse and purchase products online. It includes features such as a product catalog, shopping cart, checkout process, user accounts, payment integration, order tracking, and notifications. The app offers a convenient way for users to shop and for businesses to manage their products and sales."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
